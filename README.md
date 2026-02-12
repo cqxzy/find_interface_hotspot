@@ -186,4 +186,4 @@ Use it to remove:
 * known off-limits regions
 * residues involved in other essential interactions
 
-This work is done at [Yang Lab](https://jieyang-lab.com/) at [UVA](https://www.virginia.edu/) school of medicine, [Department of Biochemistry-Molecular Genetics](https://med.virginia.edu/bmg/)
+This work is done at [Yang Lab](https://jieyang-lab.com/) at [UVA](https://www.virginia.edu/) school of medicine, [Department of Biochemistry-Molecular Genetics](https://med.virginia.edu/bmg/), under the supervision of [Prof.Jie Yang](https://med.virginia.edu/faculty/faculty-listing/wfw7nc/)
